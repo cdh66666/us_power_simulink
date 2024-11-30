@@ -15,7 +15,7 @@
 
 - 配图：部分电路的原理配图。
 
-  ![换能器等效电路图](https://github.com/cdh66666/us_power_simulink/blob/main/simulink%E4%BB%BF%E7%9C%9F/%E4%BB%BF%E7%9C%9F%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%8D%A2%E8%83%BD%E5%99%A8%E7%AD%89%E6%95%88%E7%94%B5%E8%B7%AF.png)# 
+  ![换能器等效电路图](https://github.com/cdh66666/us_power_simulink/blob/main/simulink%E4%BB%BF%E7%9C%9F/%E4%BB%BF%E7%9C%9F%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%8D%A2%E8%83%BD%E5%99%A8%E7%AD%89%E6%95%88%E7%94%B5%E8%B7%AF.png)
 
   # 3. multisim仿真：(补全simulink仿真的部分实际实现)
 
