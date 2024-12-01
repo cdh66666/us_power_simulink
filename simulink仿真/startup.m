@@ -3,7 +3,7 @@ clc;
 
 global freq Uo count
 %初始化输出频率freq,输出电压Uo,仿真次数count
-freq = 25000;
+freq = 30000;
 Uo = 12;
 count=0;
  
