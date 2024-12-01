@@ -1,12 +1,15 @@
 clear;
 clc;
 
-global freq Uo
-%初始化输出频率freq,输出电压Uo
-freq = 25000;
-Uo = 12;
 
- 
+
+%仿真步长1ms
+global freq Uo t step
+%初始化输出频率freq,输出电压Uo,仿真时间t,仿真步长step
+freq = 20000;
+Uo = 12;
+t=0;
+step = 1e-5;
  
 
 % 设置要运行的 slx 文件路径
