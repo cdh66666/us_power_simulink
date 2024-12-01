@@ -6,7 +6,7 @@ global freq Uo count
 freq = 25000;
 Uo = 12;
 count=0;
- 
+   
  
 
 % 设置要运行的 slx 文件路径
