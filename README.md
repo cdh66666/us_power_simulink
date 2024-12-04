@@ -27,20 +27,34 @@
 
   ![有源二阶带通滤波器电路](https://github.com/cdh66666/us_power_simulink/blob/main/multisim%E4%BB%BF%E7%9C%9F/%E6%9C%89%E6%BA%90%E4%BA%8C%E9%98%B6%E5%B8%A6%E9%80%9A%E6%BB%A4%E6%B3%A2%E5%99%A8-multisim%E4%BB%BF%E7%9C%9F.png)
 
-  # 4. PCB实物：
+  # 4. PCB原理图：
 
 - 超声电源板的各部分原理图
 
-- ![实际主控](https://github.com/cdh66666/us_power_simulink/blob/main/PCB%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85%E4%B8%BB%E6%8E%A7%E7%94%B5%E8%B7%AF.png)
+  ![实际主控](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/PCB/%E5%AE%9E%E9%99%85%E4%B8%BB%E6%8E%A7%E7%94%B5%E8%B7%AF.png)
 
-  ![实际半桥](https://github.com/cdh66666/us_power_simulink/blob/main/PCB%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85%E5%8D%8A%E6%A1%A5%E9%80%86%E5%8F%98%E7%94%B5%E8%B7%AF.png)
+  ![实际半桥](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/PCB/%E5%AE%9E%E9%99%85%E5%8D%8A%E6%A1%A5%E9%80%86%E5%8F%98%E7%94%B5%E8%B7%AF.png)
 
-  ![实际互感](https://github.com/cdh66666/us_power_simulink/blob/main/PCB%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85%E7%94%B5%E5%8E%8B%E7%94%B5%E6%B5%81%E4%BA%92%E6%84%9F%E5%99%A8%E9%9A%94%E7%A6%BB%E6%A3%80%E6%B5%8B%E7%94%B5%E8%B7%AF.png)
+  ![实际互感器](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/PCB/%E5%AE%9E%E9%99%85%E7%94%B5%E5%8E%8B%E7%94%B5%E6%B5%81%E4%BA%92%E6%84%9F%E5%99%A8%E9%9A%94%E7%A6%BB%E6%A3%80%E6%B5%8B%E7%94%B5%E8%B7%AF.png)
+
+  ![输入保护电路](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/PCB/%E5%AE%9E%E9%99%85%E7%94%B5%E6%BA%90%E8%BE%93%E5%85%A5%E7%94%B5%E8%B7%AF-%E5%8F%8D%E6%8E%A5%26%E8%BF%87%E6%B5%81%26%E8%BF%87%E5%8E%8B%E4%BF%9D%E6%8A%A4%E7%94%B5%E8%B7%AF.png)
 
 - 超声电源板实物PCB布线图
 
-  ![实际布线 ](https://github.com/cdh66666/us_power_simulink/blob/main/PCB%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85PCB%E5%B8%83%E7%BA%BF%E5%9B%BE.png)
+  ![PCB布线](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/PCB/%E5%AE%9E%E9%99%85PCB%E5%B8%83%E7%BA%BF%E5%9B%BE.png)
 
 - 超声电源板实物PCB效果图
 
-  ![实际PCB](https://github.com/cdh66666/us_power_simulink/blob/main/PCB%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85%E7%94%B5%E8%B7%AF%E6%9D%BF.png)
+  ![实际PCB](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/PCB/%E5%AE%9E%E9%99%85%E7%94%B5%E8%B7%AF%E6%9D%BF.png)
+
+# 5. 超声电源&换能器实物
+
+![实际电路板](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85%E7%94%B5%E8%B7%AF%E6%9D%BF.jpg)
+
+![实际使用换能器](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8%E6%8D%A2%E8%83%BD%E5%99%A8.jpg)
+
+![实际整体](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85%E6%B5%8B%E8%AF%95%E5%9B%BE.jpg)
+
+# 6. 代码扫频效果
+
+![代码扫频](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%AE%9E%E7%89%A9%E9%83%A8%E5%88%86/%E5%AE%9E%E9%99%85%E6%89%AB%E9%A2%91%E6%95%88%E6%9E%9C%E5%9B%BE.png)
