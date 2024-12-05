@@ -1,7 +1,5 @@
 # us_power_simulink(星猫)
 
-[TOC]
-
 # 1. 需要什么配图都可以去参考论文里找！！！
 
 - [基于 STM32 的频率自动跟踪与振幅恒定的超声电源的研制](https://github.com/cdh66666/us_power_simulink/blob/main/%E5%8F%82%E8%80%83%E8%AE%BA%E6%96%87/%E5%9F%BA%E4%BA%8ESTM32%E7%9A%84%E9%A2%91%E7%8E%87%E8%87%AA%E5%8A%A8%E8%B7%9F...%E4%B8%8E%E6%8C%AF%E5%B9%85%E6%81%92%E5%AE%9A%E7%9A%84%E8%B6%85%E5%A3%B0%E7%94%B5%E6%BA%90%E7%9A%84%E7%A0%94%E5%88%B6_%E9%83%91%E4%BC%9F%E5%B8%85.pdf)
