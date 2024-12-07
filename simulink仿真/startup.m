@@ -15,7 +15,7 @@ flag=0;%扫频追频是否完成信号
 power=2;%设定恒定功率值
 
 % 设置要运行的 slx 文件路径
-slxFileName = 'us_power.slx'; 
+slxFileName = 'us_power_2022b.slx'; 
 
 % 直接调用 open 函数并将输出重定向到临时变量，避免阻塞
 tmp = open(slxFileName);
